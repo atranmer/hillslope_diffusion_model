@@ -4,3 +4,6 @@
 # Ignore output images
 *.png
 
+#Ignore testing artifacts
+__pycache__/
+
