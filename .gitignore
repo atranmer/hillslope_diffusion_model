@@ -7,3 +7,8 @@
 #Ignore testing artifacts
 __pycache__/
 
+#Ignore virtual environment directory
+venv
+
+#Ignore build artifacts
+*.egg-info
